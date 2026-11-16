@@ -11,7 +11,7 @@
 - 🔭 Năm 2003 Tôi là sinh viên chuyên ngành **An toàn thông tin**.
 - 🌱 Tôi đang tìm hiểu sâu hơn về **Mật mã học ứng dụng** và **Bảo mật di động**.
 - 💬 Hãy trao đổi cùng tôi về **Go, Rust, PHP, Python, Java, AES, XChaCha20-Poly1305**.
-- 📫 Cách liên hệ với tôi: [doremon.dn01@gmail.com] | [@hctv-laughing680].
+- 📫 Cách liên hệ với tôi: [doremon.dn01@gmail.com] | [[@hctv-laughing680](https://www.youtube.com/@hctv-laughing680)].
 - ⚡ Sở thích: Đọc sách công nghệ, tìm hiểu về bảo mật và khám phá các thuật toán mới.
 
 ---
