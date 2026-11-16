@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào, tôi là Nguyễn Hữu Cường 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=%C4%90am+m%C3%AA+M%E1%BA%ADt+m%C3%A3+h%E1%BB%8Dc;Y%C3%AAu+th%C3%ADch+Python+v%C3%A0+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=%C4%90am+m%C3%AA+M%E1%BA%ADt+m%C3%A3+h%E1%BB%8Dc;Y%C3%AAu+th%C3%ADch+Go+Rust+PHP+Python+v%C3%A0+Java" alt="Typing SVG" />
 </p>
 
 ---
