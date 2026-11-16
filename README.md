@@ -8,7 +8,7 @@
 
 ### 🧐 Giới thiệu về tôi
 
-- 🔭 Tôi đang là sinh viên chuyên ngành **An toàn thông tin**.
+- 🔭 Năm 2005 Tôi là sinh viên chuyên ngành **An toàn thông tin**.
 - 🌱 Tôi đang tìm hiểu sâu hơn về **Mật mã học ứng dụng** và **Bảo mật di động**.
 - 💬 Hãy hỏi tôi về **Python, Java, AES, XChaCha20-Poly1305**.
 - 📫 Cách liên hệ với tôi: [Email của bạn] | [LinkedIn của bạn (nếu có)].
