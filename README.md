@@ -48,7 +48,7 @@
 3.  **File-Encyption-by-AES-Logirthm** - Công cụ mã hóa file bằng thuật toán AES.
 4.  **QRCode** - Công cụ tạo QRCode trực tuyến.
 
-*(Bạn có thể ghim các dự án này ở đầu trang GitHub của mình để chúng hiển thị đẹp hơn)*
+*Luôn nghiên cứu học hỏi và chia sẻ*
 
 ---
 
